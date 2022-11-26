@@ -1,6 +1,7 @@
 # Car_Price_Prediction
 This is the Car Price Prediction model based on Linear Regression.<br>
-It will predict the price of various car which are included in 
+It will predict the price of various car which are included in <br>
+</n>
        'marutisuzuki swift', 'marutisuzuki alto', 'mahindra scorpio',
        'honda city', 'marutisuzuki wagon', 'hyundai i20', 'tata indigo',
        'renault duster', 'hyundai santro', 'honda amaze', 'chevrolet beat',
