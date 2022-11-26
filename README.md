@@ -20,4 +20,5 @@ It will predict the price of various car which are included in <br>
        'hyundai accent', 'tata manza', 'marutisuzuki vitara', 'bmw x1',
        'marutisuzuki versa', 'ford ikon', 'marutisuzuki esteem',
        'chevrolet sail', 'marutisuzuki maruti', 'renault scala',
-       'marutisuzuki ciaz', 'hyundai fluidic', 'tata tiago'
+       'marutisuzuki ciaz', 'hyundai fluidic', 'tata tiago' <br>
+The model will take car name, car company name, kms driven, year of the car as input variables to predict the price of the car. 
